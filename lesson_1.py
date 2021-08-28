@@ -1,4 +1,3 @@
-# JEFFREY IS COOLER THAN ALEC
 # Create a program in which the user creates 
 # a specific FRC team and store the following variables:
 	# Team Number (named team_number)
