@@ -1,4 +1,14 @@
-print("SIMBA")
+team_number = input("Team Number: ")
+team_name = input("Team Name: ")
+location = input("Location: ")
+rookie_year = input("Rookie Year: ")
+is_active = input("Is the team active?: ")
+print("Team Number: " + team_number)
+print("Team Name: " + team_name)
+print("Location: " + location)
+print("Rookie Year: " + rookie_year)
+print("Active?: " + is_active)
+print("According to Google, Team " + team_name + "was started in" + rookie_year + "I think.")
 # Create a program in which the user creates 
 # a specific FRC team and store the following variables:
 	# Team Number (named team_number)
